@@ -1,0 +1,16 @@
+H:\23-24-net-otterbach\Ampel_Sim\bin\Debug\net6.0-windows\Ampel_Sim.exe
+H:\23-24-net-otterbach\Ampel_Sim\bin\Debug\net6.0-windows\Ampel_Sim.deps.json
+H:\23-24-net-otterbach\Ampel_Sim\bin\Debug\net6.0-windows\Ampel_Sim.runtimeconfig.json
+H:\23-24-net-otterbach\Ampel_Sim\bin\Debug\net6.0-windows\Ampel_Sim.dll
+H:\23-24-net-otterbach\Ampel_Sim\bin\Debug\net6.0-windows\Ampel_Sim.pdb
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\Ampel_Sim.Form1.resources
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\Ampel_Sim.csproj.GenerateResource.cache
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\Ampel_Sim.GeneratedMSBuildEditorConfig.editorconfig
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\Ampel_Sim.AssemblyInfoInputs.cache
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\Ampel_Sim.AssemblyInfo.cs
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\Ampel_Sim.csproj.CoreCompileInputs.cache
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\Ampel_Sim.dll
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\refint\Ampel_Sim.dll
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\Ampel_Sim.pdb
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\Ampel_Sim.genruntimeconfig.cache
+H:\23-24-net-otterbach\Ampel_Sim\obj\Debug\net6.0-windows\ref\Ampel_Sim.dll

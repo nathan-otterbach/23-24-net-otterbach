@@ -1,0 +1,16 @@
+H:\23-24-net-otterbach\Roboter_Sim\bin\Debug\net6.0-windows\Roboter_Sim.exe
+H:\23-24-net-otterbach\Roboter_Sim\bin\Debug\net6.0-windows\Roboter_Sim.deps.json
+H:\23-24-net-otterbach\Roboter_Sim\bin\Debug\net6.0-windows\Roboter_Sim.runtimeconfig.json
+H:\23-24-net-otterbach\Roboter_Sim\bin\Debug\net6.0-windows\Roboter_Sim.dll
+H:\23-24-net-otterbach\Roboter_Sim\bin\Debug\net6.0-windows\Roboter_Sim.pdb
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\Roboter_Sim.Form1.resources
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\Roboter_Sim.csproj.GenerateResource.cache
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\Roboter_Sim.GeneratedMSBuildEditorConfig.editorconfig
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\Roboter_Sim.AssemblyInfoInputs.cache
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\Roboter_Sim.AssemblyInfo.cs
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\Roboter_Sim.csproj.CoreCompileInputs.cache
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\Roboter_Sim.dll
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\refint\Roboter_Sim.dll
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\Roboter_Sim.pdb
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\Roboter_Sim.genruntimeconfig.cache
+H:\23-24-net-otterbach\Roboter_Sim\obj\Debug\net6.0-windows\ref\Roboter_Sim.dll
