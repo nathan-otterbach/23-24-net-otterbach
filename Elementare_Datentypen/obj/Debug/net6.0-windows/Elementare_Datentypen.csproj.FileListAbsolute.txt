@@ -1,0 +1,16 @@
+H:\23-24-net-otterbach\Elementare_Datentypen\bin\Debug\net6.0-windows\Elementare_Datentypen.exe
+H:\23-24-net-otterbach\Elementare_Datentypen\bin\Debug\net6.0-windows\Elementare_Datentypen.deps.json
+H:\23-24-net-otterbach\Elementare_Datentypen\bin\Debug\net6.0-windows\Elementare_Datentypen.runtimeconfig.json
+H:\23-24-net-otterbach\Elementare_Datentypen\bin\Debug\net6.0-windows\Elementare_Datentypen.dll
+H:\23-24-net-otterbach\Elementare_Datentypen\bin\Debug\net6.0-windows\Elementare_Datentypen.pdb
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\Elementare_Datentypen.Form1.resources
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\Elementare_Datentypen.csproj.GenerateResource.cache
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\Elementare_Datentypen.GeneratedMSBuildEditorConfig.editorconfig
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\Elementare_Datentypen.AssemblyInfoInputs.cache
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\Elementare_Datentypen.AssemblyInfo.cs
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\Elementare_Datentypen.csproj.CoreCompileInputs.cache
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\Elementare_Datentypen.dll
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\refint\Elementare_Datentypen.dll
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\Elementare_Datentypen.pdb
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\Elementare_Datentypen.genruntimeconfig.cache
+H:\23-24-net-otterbach\Elementare_Datentypen\obj\Debug\net6.0-windows\ref\Elementare_Datentypen.dll

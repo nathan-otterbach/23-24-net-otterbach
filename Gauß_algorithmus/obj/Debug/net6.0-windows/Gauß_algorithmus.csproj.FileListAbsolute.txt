@@ -1,0 +1,16 @@
+H:\23-24-net-otterbach\Gauß_algorithmus\bin\Debug\net6.0-windows\Gauß_algorithmus.exe
+H:\23-24-net-otterbach\Gauß_algorithmus\bin\Debug\net6.0-windows\Gauß_algorithmus.deps.json
+H:\23-24-net-otterbach\Gauß_algorithmus\bin\Debug\net6.0-windows\Gauß_algorithmus.runtimeconfig.json
+H:\23-24-net-otterbach\Gauß_algorithmus\bin\Debug\net6.0-windows\Gauß_algorithmus.dll
+H:\23-24-net-otterbach\Gauß_algorithmus\bin\Debug\net6.0-windows\Gauß_algorithmus.pdb
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\Gauß_algorithmus.Form1.resources
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\Gauß_algorithmus.csproj.GenerateResource.cache
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\Gauß_algorithmus.GeneratedMSBuildEditorConfig.editorconfig
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\Gauß_algorithmus.AssemblyInfoInputs.cache
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\Gauß_algorithmus.AssemblyInfo.cs
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\Gauß_algorithmus.csproj.CoreCompileInputs.cache
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\Gauß_algorithmus.dll
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\refint\Gauß_algorithmus.dll
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\Gauß_algorithmus.pdb
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\Gauß_algorithmus.genruntimeconfig.cache
+H:\23-24-net-otterbach\Gauß_algorithmus\obj\Debug\net6.0-windows\ref\Gauß_algorithmus.dll

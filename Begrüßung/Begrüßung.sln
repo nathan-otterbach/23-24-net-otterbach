@@ -5,9 +5,13 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Begrüßung", "Begrüßung.csproj", "{3932A43E-1673-4532-94FF-5142397C5A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ampel_Sim", "..\Ampel_Sim\Ampel_Sim.csproj", "{DDC554C7-E9EA-42CF-AEFA-BBA62E5A79D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ampel_Sim", "..\Ampel_Sim\Ampel_Sim.csproj", "{DDC554C7-E9EA-42CF-AEFA-BBA62E5A79D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roboter_Sim", "..\Roboter_Sim\Roboter_Sim.csproj", "{9867596B-FFF9-4629-8513-C4ABA4A7C0A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roboter_Sim", "..\Roboter_Sim\Roboter_Sim.csproj", "{9867596B-FFF9-4629-8513-C4ABA4A7C0A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elementare_Datentypen", "..\Elementare_Datentypen\Elementare_Datentypen.csproj", "{4692FA64-B9FC-4908-A0DE-FD8D45B6AA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gauß_algorithmus", "..\Gauß_algorithmus\Gauß_algorithmus.csproj", "{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{9867596B-FFF9-4629-8513-C4ABA4A7C0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9867596B-FFF9-4629-8513-C4ABA4A7C0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9867596B-FFF9-4629-8513-C4ABA4A7C0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4692FA64-B9FC-4908-A0DE-FD8D45B6AA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4692FA64-B9FC-4908-A0DE-FD8D45B6AA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4692FA64-B9FC-4908-A0DE-FD8D45B6AA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4692FA64-B9FC-4908-A0DE-FD8D45B6AA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
