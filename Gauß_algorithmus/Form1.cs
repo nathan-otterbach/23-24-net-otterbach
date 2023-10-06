@@ -70,7 +70,17 @@ namespace Gauß_algorithmus
 
         private long gauß_Algo(int start, int end)
         {
-            long n = (end - start) + 1;
+            long n;
+            if (end < 0 && start < 0) n = (end - start) - 1;
+            if (end > 0 && start < 0) n = (end - start);
+            if (end < start)
+            {
+                start = end;
+                end = start;
+                n = (end - start);
+            }
+            n = (end - start) + 1;
+
             return (n * (n + 1)) / 2;
         }
 
