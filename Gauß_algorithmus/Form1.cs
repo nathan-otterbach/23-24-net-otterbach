@@ -31,6 +31,10 @@ namespace Gauß_algorithmus
 
         private void button2_Click(object sender, EventArgs e)
         {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+
             start = 1;
             end = 100;
             textBox1.Text = start.ToString();
@@ -40,6 +44,10 @@ namespace Gauß_algorithmus
 
         private void button3_Click(object sender, EventArgs e)
         {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+
             start = 50;
             end = 500000;
             textBox1.Text = start.ToString();
@@ -49,6 +57,10 @@ namespace Gauß_algorithmus
 
         private void button4_Click(object sender, EventArgs e)
         {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+
             start = 1;
             end = 1000000;
             textBox1.Text = start.ToString();
@@ -64,7 +76,9 @@ namespace Gauß_algorithmus
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            start = int.Parse(textBox1.Text);
+            end = int.Parse(textBox2.Text);
+            textBox3.Text = gauß_Algo(start, end).ToString();
         }
     }
 }
