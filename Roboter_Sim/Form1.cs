@@ -3,10 +3,12 @@ namespace Roboter_Sim
     public partial class Form1 : Form
     {
         bool right_end = false;
+        int width;
 
         public Form1()
         {
             InitializeComponent();
+            this.Width = width;
         }
 
         private void Form1_Load(object sender, EventArgs e)

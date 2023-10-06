@@ -39,11 +39,13 @@
             textBox3 = new TextBox();
             label2 = new Label();
             label1 = new Label();
+            button1 = new Button();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(button4);
             groupBox1.Controls.Add(button3);
             groupBox1.Controls.Add(button2);
@@ -159,6 +161,17 @@
             label1.TabIndex = 3;
             label1.Text = "Start";
             // 
+            // button1
+            // 
+            button1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            button1.Location = new Point(232, 216);
+            button1.Name = "button1";
+            button1.Size = new Size(124, 35);
+            button1.TabIndex = 11;
+            button1.Text = "ausgeben";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -186,5 +199,6 @@
         private Button button4;
         private Button button3;
         private Button button2;
+        private Button button1;
     }
 }

@@ -61,5 +61,10 @@ namespace Gauß_algorithmus
             long n = (end - start) + 1;
             return (n * (n + 1)) / 2;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
