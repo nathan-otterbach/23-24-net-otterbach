@@ -1,92 +1,114 @@
 namespace Roboter_Sim
 {
+    enum TrafficLightState
+    {
+        Red,
+        Yellow,
+        Green
+    }
+
     public partial class Form1 : Form
     {
-        bool right_end = false;
+        private TrafficLightState currentLightState = TrafficLightState.Red;
+
+        int pictureBoxStartPosition = 10;
+        int pictureBoxEndPosition;
         int width;
+        bool movingRight = false;
 
         public Form1()
         {
             InitializeComponent();
+            width = this.ClientSize.Width;
             this.Width = width;
+
+            // Calculate the end position for the PictureBox
+            pictureBoxEndPosition = width - pictureBox1.Width - 10;
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
+            // Initialize the traffic light state.
+            pictureBox1.BackColor = Color.Red;
         }
 
         // stop
         private void button1_Click(object sender, EventArgs e)
         {
+            // Stop the timer.
             timer1.Enabled = false;
             timer2.Enabled = false;
             pictureBox1.BackColor = Color.Red;
-            pictureBox1.Location = new Point(10, 100);
+            currentLightState = TrafficLightState.Red;
+
+            // Stop moving the PictureBox and reset its position
+            movingRight = false;
+            pictureBox1.Left = pictureBoxStartPosition;
         }
 
         // start
         private void button2_Click(object sender, EventArgs e)
         {
-            pictureBox1.BackColor = Color.Red;
+            // Start the timer and set the initial state.
             timer1.Enabled = true;
             timer2.Enabled = true;
+            pictureBox1.BackColor = Color.Red;
+
+            // Start moving the PictureBox to the right
+            movingRight = true;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            if (pictureBox1.BackColor == Color.Red)
-            {
-                pictureBox1.BackColor = Color.Yellow;
-            }
-            else if (pictureBox1.BackColor == Color.Yellow)
-            {
-                pictureBox1.BackColor = Color.Green;
-            }
-            else if (pictureBox1.BackColor == Color.Green)
-            {
-                pictureBox1.BackColor = Color.Red;
-            }
+            // Transition to the next traffic light state.
+            ChangeToNextState();
         }
 
         private void timer2_Tick(object sender, EventArgs e)
         {
-            if (right_end == false)
+            if (movingRight)
             {
-                move_Forward();
+                // Move the PictureBox to the right
+                pictureBox1.Left += 10;
+
+                // Check if it has reached the end position
+                if (pictureBox1.Left >= pictureBoxEndPosition)
+                {
+                    // Stop moving to the right and start moving back to the left
+                    movingRight = false;
+                }
             }
-            else if(right_end == true)
+            else
             {
-                move_Backward();
+                // Move the PictureBox back to the left (starting position)
+                pictureBox1.Left -= 10;
+
+                // Check if it has reached the starting position
+                if (pictureBox1.Left <= pictureBoxStartPosition)
+                {
+                    // Stop moving to the left and start moving to the right
+                    movingRight = true;
+                }
             }
         }
 
-        private void move_Forward()
+        private void ChangeToNextState()
         {
-            for (int i = 10; i <= 630; i++)
+            switch (currentLightState)
             {
-                pictureBox1.Location = new Point(i, 100);
+                case TrafficLightState.Red:
+                    pictureBox1.BackColor = Color.Yellow;
+                    currentLightState = TrafficLightState.Yellow;
+                    break;
+                case TrafficLightState.Yellow:
+                    pictureBox1.BackColor = Color.Green;
+                    currentLightState = TrafficLightState.Green;
+                    break;
+                case TrafficLightState.Green:
+                    pictureBox1.BackColor = Color.Red;
+                    currentLightState = TrafficLightState.Red;
+                    break;
             }
-            right_end = true;
-        }
-
-        private void move_Backward()
-        {
-            for (int i = 0; i <= 620; i++)
-            {
-                pictureBox1.Location = new Point(630-i, 100);
-            }
-            right_end = false;
         }
     }
 }

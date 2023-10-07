@@ -29,37 +29,24 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            groupBox1 = new GroupBox();
             label1 = new Label();
             button1 = new Button();
             button2 = new Button();
             pictureBox1 = new PictureBox();
             timer1 = new System.Windows.Forms.Timer(components);
-            groupBox1.SuspendLayout();
+            groupBox2 = new GroupBox();
+            label3 = new Label();
+            label2 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            groupBox2.SuspendLayout();
             SuspendLayout();
-            // 
-            // groupBox1
-            // 
-            groupBox1.Controls.Add(label1);
-            groupBox1.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
-            groupBox1.Location = new Point(12, 12);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(776, 70);
-            groupBox1.TabIndex = 0;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "Info";
-            groupBox1.Enter += groupBox1_Enter;
             // 
             // label1
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(6, 29);
+            label1.Location = new Point(0, 0);
             label1.Name = "label1";
-            label1.Size = new Size(639, 25);
+            label1.Size = new Size(100, 23);
             label1.TabIndex = 0;
-            label1.Text = "A1 Ampel simulieren, Gewerblische schule Crailsheim © Nathan Otterbach";
-            label1.Click += label1_Click;
             // 
             // button1
             // 
@@ -91,38 +78,68 @@
             pictureBox1.Size = new Size(133, 92);
             pictureBox1.TabIndex = 3;
             pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
             // 
             // timer1
             // 
             timer1.Interval = 500;
             timer1.Tick += timer1_Tick;
             // 
+            // groupBox2
+            // 
+            groupBox2.Controls.Add(label3);
+            groupBox2.Controls.Add(label2);
+            groupBox2.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
+            groupBox2.Location = new Point(5, 4);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(790, 85);
+            groupBox2.TabIndex = 5;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Info";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point);
+            label3.Location = new Point(6, 41);
+            label3.Name = "label3";
+            label3.Size = new Size(492, 20);
+            label3.TabIndex = 6;
+            label3.Text = "A1 Ampel simulieren Gewerbliche Schule Crailsheim © Nathan Otterbach";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(13, 25);
+            label2.Name = "label2";
+            label2.Size = new Size(0, 25);
+            label2.TabIndex = 5;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(groupBox2);
             Controls.Add(pictureBox1);
             Controls.Add(button2);
             Controls.Add(button1);
-            Controls.Add(groupBox1);
             Name = "Form1";
             Text = "Ampel_Sim";
             Load += Form1_Load;
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
             ResumeLayout(false);
         }
 
         #endregion
-
-        private GroupBox groupBox1;
         private Label label1;
         private Button button1;
         private Button button2;
         private PictureBox pictureBox1;
         private System.Windows.Forms.Timer timer1;
+        private GroupBox groupBox2;
+        private Label label3;
+        private Label label2;
     }
 }

@@ -50,7 +50,6 @@
             groupBox1.TabIndex = 4;
             groupBox1.TabStop = false;
             groupBox1.Text = "Info";
-            groupBox1.Enter += groupBox1_Enter;
             // 
             // label1
             // 
@@ -69,7 +68,6 @@
             pictureBox1.Size = new Size(150, 100);
             pictureBox1.TabIndex = 7;
             pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
             // 
             // button2
             // 
@@ -95,19 +93,19 @@
             // 
             // timer1
             // 
-            timer1.Interval = 500;
+            timer1.Interval = 250;
             timer1.Tick += timer1_Tick;
             // 
             // timer2
             // 
-            timer2.Interval = 500;
+            timer2.Interval = 50;
             timer2.Tick += timer2_Tick;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(784, 461);
+            ClientSize = new Size(800, 461);
             Controls.Add(groupBox1);
             Controls.Add(pictureBox1);
             Controls.Add(button2);
