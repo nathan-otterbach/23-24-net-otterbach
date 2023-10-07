@@ -2,8 +2,6 @@ namespace Gauß_algorithmus
 {
     public partial class Form1 : Form
     {
-        int start;
-        int end;
         public Form1()
         {
             InitializeComponent();
@@ -31,64 +29,62 @@ namespace Gauß_algorithmus
 
         private void button2_Click(object sender, EventArgs e)
         {
-            textBox1.Clear();
-            textBox2.Clear();
-            textBox3.Clear();
-
-            start = 1;
-            end = 100;
-            textBox1.Text = start.ToString();
-            textBox2.Text = end.ToString();
-            textBox3.Text = gauß_Algo(start, end).ToString();
+            ClearTextBoxes();
+            textBox1.Text = "1";
+            textBox2.Text = "100";
+            CalculateAndDisplayResult();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            textBox1.Clear();
-            textBox2.Clear();
-            textBox3.Clear();
-
-            start = 50;
-            end = 500000;
-            textBox1.Text = start.ToString();
-            textBox2.Text = end.ToString();
-            textBox3.Text = gauß_Algo(start, end).ToString();
+            ClearTextBoxes();
+            textBox1.Text = "50";
+            textBox2.Text = "500000";
+            CalculateAndDisplayResult();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            textBox1.Clear();
-            textBox2.Clear();
-            textBox3.Clear();
-
-            start = 1;
-            end = 1000000;
-            textBox1.Text = start.ToString();
-            textBox2.Text = end.ToString();
-            textBox3.Text = gauß_Algo(start, end).ToString();
-        }
-
-        private long gauß_Algo(int start, int end)
-        {
-            long n;
-            if (end < 0 && start < 0) n = (end - start) - 1;
-            if (end > 0 && start < 0) n = (end - start);
-            if (end < start)
-            {
-                start = end;
-                end = start;
-                n = (end - start);
-            }
-            n = (end - start) + 1;
-
-            return (n * (n + 1)) / 2;
+            ClearTextBoxes();
+            textBox1.Text = "1";
+            textBox2.Text = "1000000";
+            CalculateAndDisplayResult();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            start = int.Parse(textBox1.Text);
-            end = int.Parse(textBox2.Text);
-            textBox3.Text = gauß_Algo(start, end).ToString();
+            // Calculate and display the result when the custom calculation button is clicked.
+            CalculateAndDisplayResult();
+        }
+
+        private void ClearTextBoxes()
+        {
+            // Clear all textboxes.
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+        }
+
+        private ulong GaussAlgo(uint start, uint end)
+        {
+            // Calculate the sum of integers using the Gauss algorithm.
+            ulong n = (end - start) + 1;
+            return (n * (n + 1)) / 2;
+        }
+
+        private void CalculateAndDisplayResult()
+        {
+            if (uint.TryParse(textBox1.Text, out uint start) && uint.TryParse(textBox2.Text, out uint end))
+            {
+                // Calculate and display the result if input is valid.
+                ulong result = GaussAlgo(start, end);
+                textBox3.Text = result.ToString();
+            }
+            else
+            {
+                // Display an error message for invalid input.
+                textBox3.Text = "Invalid input!";
+            }
         }
     }
 }
