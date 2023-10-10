@@ -74,7 +74,9 @@ namespace Gauß_algorithmus
 
         private void CalculateAndDisplayResult()
         {
-            if (uint.TryParse(textBox1.Text, out uint start) && uint.TryParse(textBox2.Text, out uint end))
+            if (uint.TryParse(textBox1.Text, out uint start) 
+                && uint.TryParse(textBox2.Text, out uint end) 
+                && start < end)
             {
                 // Calculate and display the result if input is valid.
                 ulong result = GaussAlgo(start, end);
