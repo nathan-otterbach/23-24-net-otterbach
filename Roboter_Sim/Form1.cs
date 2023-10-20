@@ -14,17 +14,11 @@ namespace Roboter_Sim
         private TrafficLightState currentLightState = TrafficLightState.Red;
 
         int pictureBoxStartPosition = 10;
-        int pictureBoxEndPosition;
-        int width;
         bool movingRight = false;
 
         public Form1()
         {
             InitializeComponent();
-            width = this.ClientSize.Width;
-
-            // Calculate the end position for the PictureBox
-            pictureBoxEndPosition = width - pictureBox1.Width - 10;
 
             // clear ListBox
             listBox1.Items.Clear();
@@ -81,7 +75,7 @@ namespace Roboter_Sim
                 pictureBox1.Left += 1;
 
                 // Check if it has reached the end position
-                if (pictureBox1.Left >= pictureBoxEndPosition)
+                if (pictureBox1.Left >= ClientSize.Width - pictureBox1.Width - 10)
                 {
                     // Stop moving to the right and start moving back to the left
                     movingRight = false;
