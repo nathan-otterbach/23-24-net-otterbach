@@ -64,13 +64,26 @@ namespace Gauß_algorithmus
             textBox2.Clear();
             textBox3.Clear();
         }
-
+        
+        /*
+         * Calculates the sum of consecutive integers using the Gauss algorithm.
+         *
+         * @param start The starting integer of the sequence.
+         * @param end The ending integer of the sequence.
+         * @return The sum of integers from 'start' to 'end' (inclusive).
+         */
         private ulong GaussAlgo(uint start, uint end)
         {
-            // Calculate the sum of integers using the Gauss algorithm.
+            // Calculate the number of integers in the sequence from 'start' to 'end'.
             ulong n = (end - start) + 1;
-            return (n * (n + 1)) / 2;
+
+            // Use the Gauss formula to find the sum of integers from 'start' to 'end'.
+            // The formula (n * (n + 1)) / 2 sums the integers from 1 to 'n'.
+            ulong sum = (n * (n + 1)) / 2;
+
+            return sum;
         }
+
 
         private void CalculateAndDisplayResult()
         {
