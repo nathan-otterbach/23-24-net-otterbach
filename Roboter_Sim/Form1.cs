@@ -1,3 +1,5 @@
+using System;
+
 namespace Roboter_Sim
 {
     enum TrafficLightState
@@ -23,6 +25,10 @@ namespace Roboter_Sim
 
             // Calculate the end position for the PictureBox
             pictureBoxEndPosition = width - pictureBox1.Width - 10;
+
+            // clear ListBox
+            listBox1.Items.Clear();
+            listBox2.Items.Clear();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -34,6 +40,10 @@ namespace Roboter_Sim
         // stop
         private void button1_Click(object sender, EventArgs e)
         {
+            // clear ListBox
+            listBox1.Items.Clear();
+            listBox2.Items.Clear();
+
             // Stop the timer.
             timer1.Enabled = false;
             timer2.Enabled = false;
@@ -68,7 +78,7 @@ namespace Roboter_Sim
             if (movingRight)
             {
                 // Move the PictureBox to the right
-                pictureBox1.Left += 10;
+                pictureBox1.Left += 1;
 
                 // Check if it has reached the end position
                 if (pictureBox1.Left >= pictureBoxEndPosition)
@@ -80,7 +90,7 @@ namespace Roboter_Sim
             else
             {
                 // Move the PictureBox back to the left (starting position)
-                pictureBox1.Left -= 10;
+                pictureBox1.Left -= 1;
 
                 // Check if it has reached the starting position
                 if (pictureBox1.Left <= pictureBoxStartPosition)
@@ -89,6 +99,10 @@ namespace Roboter_Sim
                     movingRight = true;
                 }
             }
+
+            // display postitions in ListBox
+            listBox1.Items.Add(Convert.ToString(DectoGray(Convert.ToInt32(pictureBox1.Location.X)), 2));
+            listBox2.Items.Add(Convert.ToString(pictureBox1.Location.X));
         }
 
         private void ChangeToNextState()
@@ -108,6 +122,11 @@ namespace Roboter_Sim
                     currentLightState = TrafficLightState.Red;
                     break;
             }
+        }
+
+        private int DectoGray(int n)
+        {
+            return n ^ (n >> 1);
         }
     }
 }

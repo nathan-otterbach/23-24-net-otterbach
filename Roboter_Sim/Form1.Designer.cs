@@ -36,6 +36,8 @@
             button1 = new Button();
             timer1 = new System.Windows.Forms.Timer(components);
             timer2 = new System.Windows.Forms.Timer(components);
+            listBox1 = new ListBox();
+            listBox2 = new ListBox();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -98,14 +100,34 @@
             // 
             // timer2
             // 
-            timer2.Interval = 50;
+            timer2.Interval = 10;
             timer2.Tick += timer2_Tick;
+            // 
+            // listBox1
+            // 
+            listBox1.FormattingEnabled = true;
+            listBox1.ItemHeight = 15;
+            listBox1.Location = new Point(679, 250);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(109, 199);
+            listBox1.TabIndex = 8;
+            // 
+            // listBox2
+            // 
+            listBox2.FormattingEnabled = true;
+            listBox2.ItemHeight = 15;
+            listBox2.Location = new Point(559, 250);
+            listBox2.Name = "listBox2";
+            listBox2.Size = new Size(109, 199);
+            listBox2.TabIndex = 9;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 461);
+            Controls.Add(listBox2);
+            Controls.Add(listBox1);
             Controls.Add(groupBox1);
             Controls.Add(pictureBox1);
             Controls.Add(button2);
@@ -128,5 +150,7 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Timer timer2;
         public PictureBox pictureBox1;
+        private ListBox listBox1;
+        private ListBox listBox2;
     }
 }
