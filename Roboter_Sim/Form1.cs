@@ -118,8 +118,32 @@ namespace Roboter_Sim
             }
         }
 
+        /*
+         * Converts a decimal (base-10) number to its Gray code representation.
+         *
+         * Gray code is a binary numeral system where two consecutive values differ
+         * in only one bit. This function uses XOR to perform the conversion.
+         *
+         * @param n The decimal number to convert to Gray code.
+         * @return The Gray code representation of the input decimal number.
+         */
         private int DectoGray(int n)
         {
+            // Right-shift the decimal number by 1 bit.
+            // This effectively divides n by 2 and discards any fractional part.
+            // For example, if n is 6 (110 in binary), n >> 1 would be 3 (11 in binary).
+
+            // Perform XOR (^) operation between n and the shifted value.
+            // The XOR operation returns 1 for each bit position where the two numbers differ
+            // and 0 where they are the same.
+            // For example, if n is 6 (110 in binary) and n >> 1 is 3 (11 in binary):
+            //   110
+            //   011
+            //   ---
+            //   101
+            // The result, 101 in binary, is the Gray code representation.
+
+            // Return the Gray code representation of the input decimal number.
             return n ^ (n >> 1);
         }
     }
