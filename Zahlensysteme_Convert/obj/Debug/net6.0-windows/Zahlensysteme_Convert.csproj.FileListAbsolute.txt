@@ -1,0 +1,16 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\bin\Debug\net6.0-windows\Zahlensysteme_Convert.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\bin\Debug\net6.0-windows\Zahlensysteme_Convert.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\bin\Debug\net6.0-windows\Zahlensysteme_Convert.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\bin\Debug\net6.0-windows\Zahlensysteme_Convert.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\bin\Debug\net6.0-windows\Zahlensysteme_Convert.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\Zahlensysteme_Convert.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\Zahlensysteme_Convert.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\Zahlensysteme_Convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\Zahlensysteme_Convert.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\Zahlensysteme_Convert.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\Zahlensysteme_Convert.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\Zahlensysteme_Convert.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\refint\Zahlensysteme_Convert.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\Zahlensysteme_Convert.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\Zahlensysteme_Convert.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zahlensysteme_Convert\obj\Debug\net6.0-windows\ref\Zahlensysteme_Convert.dll

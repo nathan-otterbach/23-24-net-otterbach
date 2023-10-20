@@ -20,7 +20,6 @@ namespace Roboter_Sim
         {
             InitializeComponent();
             width = this.ClientSize.Width;
-            this.Width = width;
 
             // Calculate the end position for the PictureBox
             pictureBoxEndPosition = width - pictureBox1.Width - 10;
