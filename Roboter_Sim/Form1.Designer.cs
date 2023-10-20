@@ -107,18 +107,18 @@
             // 
             listBox1.FormattingEnabled = true;
             listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(679, 250);
+            listBox1.Location = new Point(125, 295);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(109, 199);
+            listBox1.Size = new Size(109, 154);
             listBox1.TabIndex = 8;
             // 
             // listBox2
             // 
             listBox2.FormattingEnabled = true;
             listBox2.ItemHeight = 15;
-            listBox2.Location = new Point(559, 250);
+            listBox2.Location = new Point(10, 295);
             listBox2.Name = "listBox2";
-            listBox2.Size = new Size(109, 199);
+            listBox2.Size = new Size(109, 154);
             listBox2.TabIndex = 9;
             // 
             // Form1
