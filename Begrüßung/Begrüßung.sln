@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ampel_Sim", "..\Ampel_Sim\A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roboter_Sim", "..\Roboter_Sim\Roboter_Sim.csproj", "{9867596B-FFF9-4629-8513-C4ABA4A7C0A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elementare_Datentypen", "..\Elementare_Datentypen\Elementare_Datentypen.csproj", "{4692FA64-B9FC-4908-A0DE-FD8D45B6AA6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elementare_Datentypen", "..\Elementare_Datentypen\Elementare_Datentypen.csproj", "{4692FA64-B9FC-4908-A0DE-FD8D45B6AA6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gauß_algorithmus", "..\Gauß_algorithmus\Gauß_algorithmus.csproj", "{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gauß_algorithmus", "..\Gauß_algorithmus\Gauß_algorithmus.csproj", "{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LagerPlatz", "..\LagerPlatz\LagerPlatz.csproj", "{1860CBE7-99E8-4D4C-A640-C46CE1A13254}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1AAA65-EF5A-43BC-AC9A-F463F2E583BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1860CBE7-99E8-4D4C-A640-C46CE1A13254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1860CBE7-99E8-4D4C-A640-C46CE1A13254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1860CBE7-99E8-4D4C-A640-C46CE1A13254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1860CBE7-99E8-4D4C-A640-C46CE1A13254}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

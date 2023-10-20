@@ -1,0 +1,16 @@
+H:\23-24-net-otterbach\LagerPlatz\bin\Debug\net6.0-windows\LagerPlatz.exe
+H:\23-24-net-otterbach\LagerPlatz\bin\Debug\net6.0-windows\LagerPlatz.deps.json
+H:\23-24-net-otterbach\LagerPlatz\bin\Debug\net6.0-windows\LagerPlatz.runtimeconfig.json
+H:\23-24-net-otterbach\LagerPlatz\bin\Debug\net6.0-windows\LagerPlatz.dll
+H:\23-24-net-otterbach\LagerPlatz\bin\Debug\net6.0-windows\LagerPlatz.pdb
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\LagerPlatz.Form1.resources
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\LagerPlatz.csproj.GenerateResource.cache
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\LagerPlatz.GeneratedMSBuildEditorConfig.editorconfig
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\LagerPlatz.AssemblyInfoInputs.cache
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\LagerPlatz.AssemblyInfo.cs
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\LagerPlatz.csproj.CoreCompileInputs.cache
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\LagerPlatz.dll
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\refint\LagerPlatz.dll
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\LagerPlatz.pdb
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\LagerPlatz.genruntimeconfig.cache
+H:\23-24-net-otterbach\LagerPlatz\obj\Debug\net6.0-windows\ref\LagerPlatz.dll
