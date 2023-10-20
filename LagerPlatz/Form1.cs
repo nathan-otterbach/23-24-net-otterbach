@@ -38,7 +38,6 @@ namespace LagerPlatz
                     {
                         pictureBox_Platz2.BackColor = Color.Green;
                     }
-
                     break;
 
                 case 2:
