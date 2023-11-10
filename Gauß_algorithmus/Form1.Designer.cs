@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             groupBox1 = new GroupBox();
+            label5 = new Label();
+            textBox4 = new TextBox();
             checkBox1 = new CheckBox();
             button1 = new Button();
             button4 = new Button();
@@ -46,6 +48,8 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(label5);
+            groupBox1.Controls.Add(textBox4);
             groupBox1.Controls.Add(checkBox1);
             groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(button4);
@@ -65,6 +69,22 @@
             groupBox1.TabIndex = 8;
             groupBox1.TabStop = false;
             groupBox1.Text = "Übung: Gauß Algorithmus";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(51, 265);
+            label5.Name = "label5";
+            label5.Size = new Size(161, 25);
+            label5.TabIndex = 14;
+            label5.Text = "Time passed in µs";
+            // 
+            // textBox4
+            // 
+            textBox4.Location = new Point(244, 261);
+            textBox4.Name = "textBox4";
+            textBox4.Size = new Size(100, 33);
+            textBox4.TabIndex = 13;
             // 
             // checkBox1
             // 
@@ -209,5 +229,7 @@
         private Button button2;
         private Button button1;
         private CheckBox checkBox1;
+        private Label label5;
+        private TextBox textBox4;
     }
 }

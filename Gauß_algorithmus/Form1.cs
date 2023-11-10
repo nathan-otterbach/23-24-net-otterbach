@@ -1,7 +1,10 @@
+using System.Diagnostics;
+
 namespace Gauß_algorithmus
 {
     public partial class Form1 : Form
     {
+        private Stopwatch sw;
         public Form1()
         {
             InitializeComponent();
@@ -60,7 +63,7 @@ namespace Gauß_algorithmus
 
             // Use the Gauss formula to find the sum of integers from 'start' to 'end'.
             // The formula (n * (n + 1)) / 2 sums the integers from 1 to 'n'.
-            ulong sum = (n * (m)) / 2;
+            ulong sum = (n * m) / 2;
 
             return sum;
         }
@@ -83,16 +86,24 @@ namespace Gauß_algorithmus
                 && start < end)
             {
                 ulong result;
+                decimal ticks;
                 // Calculate and display the result if input is valid.
                 if (checkBox1.Checked)
                 {
+                    sw = Stopwatch.StartNew();
                     result = GaussAlgo_iter(start, end);
+                    ticks = sw.ElapsedTicks;
                 }
                 else
                 {
+                    sw = Stopwatch.StartNew();
                     result = GaussAlgo(start, end);
+                    ticks = sw.ElapsedTicks;
                 }
                 textBox3.Text = result.ToString();
+
+                decimal microseconds = Math.Round((ticks / Stopwatch.Frequency) * 1000000, 3);
+                textBox4.Text = microseconds.ToString();
             }
             else
             {
