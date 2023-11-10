@@ -4,6 +4,8 @@ namespace Lotto_Zahlen
 {
     public partial class Form1 : Form
     {
+        private readonly Random rnd = new Random(Guid.NewGuid().GetHashCode());
+
         public Form1()
         {
             InitializeComponent();
@@ -21,7 +23,6 @@ namespace Lotto_Zahlen
 
         private int generateNumber()
         {
-            Random rnd = new Random(Guid.NewGuid().GetHashCode());
             int number = rnd.Next(1, 49);
             return number;
         }
