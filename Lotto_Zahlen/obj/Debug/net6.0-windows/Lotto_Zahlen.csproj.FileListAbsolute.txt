@@ -1,0 +1,16 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\bin\Debug\net6.0-windows\Lotto_Zahlen.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\bin\Debug\net6.0-windows\Lotto_Zahlen.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\bin\Debug\net6.0-windows\Lotto_Zahlen.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\bin\Debug\net6.0-windows\Lotto_Zahlen.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\bin\Debug\net6.0-windows\Lotto_Zahlen.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\Lotto_Zahlen.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\Lotto_Zahlen.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\Lotto_Zahlen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\Lotto_Zahlen.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\Lotto_Zahlen.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\Lotto_Zahlen.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\Lotto_Zahlen.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\refint\Lotto_Zahlen.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\Lotto_Zahlen.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\Lotto_Zahlen.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Lotto_Zahlen\obj\Debug\net6.0-windows\ref\Lotto_Zahlen.dll
