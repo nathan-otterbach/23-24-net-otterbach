@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             groupBox1 = new GroupBox();
+            checkBox1 = new CheckBox();
+            button1 = new Button();
             button4 = new Button();
             button3 = new Button();
             button2 = new Button();
@@ -39,12 +41,12 @@
             textBox3 = new TextBox();
             label2 = new Label();
             label1 = new Label();
-            button1 = new Button();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(checkBox1);
             groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(button4);
             groupBox1.Controls.Add(button3);
@@ -63,6 +65,27 @@
             groupBox1.TabIndex = 8;
             groupBox1.TabStop = false;
             groupBox1.Text = "Übung: Gauß Algorithmus";
+            // 
+            // checkBox1
+            // 
+            checkBox1.AutoSize = true;
+            checkBox1.Location = new Point(623, 256);
+            checkBox1.Name = "checkBox1";
+            checkBox1.Size = new Size(99, 29);
+            checkBox1.TabIndex = 12;
+            checkBox1.Text = "iterative";
+            checkBox1.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            button1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            button1.Location = new Point(232, 216);
+            button1.Name = "button1";
+            button1.Size = new Size(124, 35);
+            button1.TabIndex = 11;
+            button1.Text = "ausgeben";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button4
             // 
@@ -113,7 +136,6 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(173, 33);
             textBox1.TabIndex = 0;
-            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox2
             // 
@@ -121,7 +143,6 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(173, 33);
             textBox2.TabIndex = 1;
-            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // label3
             // 
@@ -139,7 +160,6 @@
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(173, 33);
             textBox3.TabIndex = 2;
-            textBox3.TextChanged += textBox3_TextChanged;
             // 
             // label2
             // 
@@ -161,17 +181,6 @@
             label1.TabIndex = 3;
             label1.Text = "Start";
             // 
-            // button1
-            // 
-            button1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(232, 216);
-            button1.Name = "button1";
-            button1.Size = new Size(124, 35);
-            button1.TabIndex = 11;
-            button1.Text = "ausgeben";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -180,7 +189,6 @@
             Controls.Add(groupBox1);
             Name = "Form1";
             Text = "Form1";
-            Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ResumeLayout(false);
@@ -200,5 +208,6 @@
         private Button button3;
         private Button button2;
         private Button button1;
+        private CheckBox checkBox1;
     }
 }

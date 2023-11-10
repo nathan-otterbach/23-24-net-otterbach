@@ -7,26 +7,6 @@ namespace Gauß_algorithmus
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
             ClearTextBoxes();
@@ -64,7 +44,7 @@ namespace Gauß_algorithmus
             textBox2.Clear();
             textBox3.Clear();
         }
-        
+
         /*
          * Calculates the sum of consecutive integers using the Gauss algorithm.
          *
@@ -75,24 +55,43 @@ namespace Gauß_algorithmus
         private ulong GaussAlgo(uint start, uint end)
         {
             // Calculate the number of integers in the sequence from 'start' to 'end'.
-            ulong n = (end - start) + 1;
+            ulong m = (end - start) + 1;
+            ulong n = start + end;
 
             // Use the Gauss formula to find the sum of integers from 'start' to 'end'.
             // The formula (n * (n + 1)) / 2 sums the integers from 1 to 'n'.
-            ulong sum = (n * (n + 1)) / 2;
+            ulong sum = (n * (m)) / 2;
 
+            return sum;
+        }
+
+        private ulong GaussAlgo_iter(uint start, uint end)
+        {
+            ulong sum = 0;
+            for (uint i = start; i <= end; i++)
+            {
+                sum += i;
+            }
             return sum;
         }
 
 
         private void CalculateAndDisplayResult()
         {
-            if (uint.TryParse(textBox1.Text, out uint start) 
-                && uint.TryParse(textBox2.Text, out uint end) 
+            if (uint.TryParse(textBox1.Text, out uint start)
+                && uint.TryParse(textBox2.Text, out uint end)
                 && start < end)
             {
+                ulong result;
                 // Calculate and display the result if input is valid.
-                ulong result = GaussAlgo(start, end);
+                if (checkBox1.Checked)
+                {
+                    result = GaussAlgo_iter(start, end);
+                }
+                else
+                {
+                    result = GaussAlgo(start, end);
+                }
                 textBox3.Text = result.ToString();
             }
             else
