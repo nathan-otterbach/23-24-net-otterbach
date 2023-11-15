@@ -100,7 +100,7 @@
             // 
             // timer2
             // 
-            timer2.Interval = 10;
+            timer2.Interval = 50;
             timer2.Tick += timer2_Tick;
             // 
             // listBox1

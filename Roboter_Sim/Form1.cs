@@ -97,6 +97,9 @@ namespace Roboter_Sim
             // display postitions in ListBox
             listBox1.Items.Add(Convert.ToString(DectoGray(Convert.ToInt32(pictureBox1.Location.X)), 2));
             listBox2.Items.Add(Convert.ToString(pictureBox1.Location.X));
+
+            listBox1.SelectedIndex = listBox1.Items.Count - 1;
+            listBox2.SelectedIndex = listBox2.Items.Count - 1;
         }
 
         private void ChangeToNextState()

@@ -17,11 +17,11 @@ namespace Lotto_Zahlen
             var textBoxes = GetAllControls<TextBox>(this);
             foreach (TextBox tb in textBoxes)
             {
-                tb.Text = generateNumber().ToString();
+                tb.Text = GenerateNumber().ToString();
             }
         }
 
-        private int generateNumber()
+        private int GenerateNumber()
         {
             int number = rnd.Next(1, 49);
             return number;
