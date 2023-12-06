@@ -9,6 +9,7 @@ namespace LagerPlatz
         private const int Levels = 4;
         private const int BoxesPerLevel = 4;
         private PictureBox[,] pictureBoxes = new PictureBox[Levels, BoxesPerLevel];
+        private Status[,] statuses = new Status[Levels, BoxesPerLevel];
 
         // Enumeration to represent different statuses
         private enum Status
