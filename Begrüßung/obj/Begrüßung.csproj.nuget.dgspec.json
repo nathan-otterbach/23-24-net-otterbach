@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj": {}
+    "H:\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj": {
+    "H:\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj",
+        "projectUniqueName": "H:\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj",
         "projectName": "Begrüßung",
-        "projectPath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj",
-        "packagesPath": "C:\\Users\\bitwise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Begrüßung\\obj\\",
+        "projectPath": "H:\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj",
+        "packagesPath": "C:\\Users\\OtterbachN1\\.nuget\\packages\\",
+        "outputPath": "H:\\23-24-net-otterbach\\Begrüßung\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bitwise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OtterbachN1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,19 +58,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.26, 6.0.26]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.26, 6.0.26]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.26, 6.0.26]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.25, 6.0.25]"
+              "version": "[6.0.26, 6.0.26]"
             }
           ],
           "frameworkReferences": {
@@ -81,7 +81,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

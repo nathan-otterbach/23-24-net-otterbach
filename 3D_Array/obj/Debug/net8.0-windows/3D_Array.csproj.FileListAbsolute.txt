@@ -1,0 +1,17 @@
+H:\23-24-net-otterbach\3D_Array\bin\Debug\net8.0-windows\3D_Array.exe
+H:\23-24-net-otterbach\3D_Array\bin\Debug\net8.0-windows\3D_Array.deps.json
+H:\23-24-net-otterbach\3D_Array\bin\Debug\net8.0-windows\3D_Array.runtimeconfig.json
+H:\23-24-net-otterbach\3D_Array\bin\Debug\net8.0-windows\3D_Array.dll
+H:\23-24-net-otterbach\3D_Array\bin\Debug\net8.0-windows\3D_Array.pdb
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\_3D_Array.Form1.resources
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\3D_Array.csproj.GenerateResource.cache
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\3D_Array.GeneratedMSBuildEditorConfig.editorconfig
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\3D_Array.AssemblyInfoInputs.cache
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\3D_Array.AssemblyInfo.cs
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\3D_Array.csproj.CoreCompileInputs.cache
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\3D_Array.sourcelink.json
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\3D_Array.dll
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\refint\3D_Array.dll
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\3D_Array.pdb
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\3D_Array.genruntimeconfig.cache
+H:\23-24-net-otterbach\3D_Array\obj\Debug\net8.0-windows\ref\3D_Array.dll

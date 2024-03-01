@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gauß_algorithmus", "..\Gau
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LagerPlatz", "..\LagerPlatz\LagerPlatz.csproj", "{1860CBE7-99E8-4D4C-A640-C46CE1A13254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotto_Zahlen", "..\Lotto_Zahlen\Lotto_Zahlen.csproj", "{2F2B3E2B-19E8-4695-92E2-379E7BE24D9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotto_Zahlen", "..\Lotto_Zahlen\Lotto_Zahlen.csproj", "{2F2B3E2B-19E8-4695-92E2-379E7BE24D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D_Array", "..\3D_Array\3D_Array.csproj", "{706D843A-BB55-4173-9533-4BD6C793EC25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{2F2B3E2B-19E8-4695-92E2-379E7BE24D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F2B3E2B-19E8-4695-92E2-379E7BE24D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F2B3E2B-19E8-4695-92E2-379E7BE24D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{706D843A-BB55-4173-9533-4BD6C793EC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706D843A-BB55-4173-9533-4BD6C793EC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706D843A-BB55-4173-9533-4BD6C793EC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706D843A-BB55-4173-9533-4BD6C793EC25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

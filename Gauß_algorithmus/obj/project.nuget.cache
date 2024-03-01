@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Kh1Po6sS5+bZNNiEsFeBjIdkWui9ZzZfRR9pzr+pYRTbp3oAF41/8llz2bwe22Mn4Ph62/mbv9bpq85D4b2BqA==",
+  "dgSpecHash": "gTZ7Op+0UDoAZnYK5nf3Q3i+5ROi9vBgRBIESKjXUKJMKLX/EygYeGtcDdTe2A1AMzJE7XzmvCY8thUS6WpX0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Gauß_algorithmus\\Gauß_algorithmus.csproj",
+  "projectFilePath": "H:\\23-24-net-otterbach\\Gauß_algorithmus\\Gauß_algorithmus.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bitwise\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\bitwise\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\bitwise\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\bitwise\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
