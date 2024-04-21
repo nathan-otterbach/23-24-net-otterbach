@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Begr\u00FC\u00DFung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E19B24-625D-458C-989D-DF89BE3AA10A}|..\\LottoClient\\LottoClient.csproj|c:\\users\\bitwise\\source\\repos\\23-24-net-otterbach\\lottoclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E19B24-625D-458C-989D-DF89BE3AA10A}|..\\LottoClient\\LottoClient.csproj|c:\\users\\bitwise\\source\\repos\\23-24-net-otterbach\\lottoclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\LottoClient\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\LottoClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\LottoClient\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\LottoClient\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:53:28.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\LottoClient\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\LottoClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\LottoClient\\Form1.cs",
+              "RelativeToolTip": "..\\LottoClient\\Form1.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAuwI8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:50:23.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

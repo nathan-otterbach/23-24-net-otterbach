@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVi/AXKq6K0maLTHtIHtoJzTX4MfPk+QWqNeEGy5aHXpyEj++e7JFMoauUbECDvfDwX75cStV6AQFZAfgPd+7g==",
+  "dgSpecHash": "K47G3oDmWMoou20Moi+HEMfBKfH/cWAee+0lsQ+breyLwMI5EhaX6Hhrws/Tb6INZXsA2GnzNzlgBkhi885AXg==",
   "success": true,
-  "projectFilePath": "H:\\23-24-net-otterbach\\Ampel_Sim\\Ampel_Sim.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Ampel_Sim\\Ampel_Sim.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "smPr6orUdVz55shODjhCBdNIvH4cHY6AJ7M7ohlpdLIvYHrmW0zfyWJQnJHNYm+oy+iJ/wBJRR0sejeK5krmng==",
+  "dgSpecHash": "qhNc/dXKm4VNldVdKPFRbrV7i0Vp2ileccuIaE/AVHD6YQd0uTXTqkEM8I8hweRhKW9h50W7GDKRh54IS+Slvg==",
   "success": true,
-  "projectFilePath": "H:\\23-24-net-otterbach\\LagerPlatz\\LagerPlatz.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\LagerPlatz\\LagerPlatz.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

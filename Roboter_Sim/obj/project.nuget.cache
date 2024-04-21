@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TGrBgYAupJ8Y3v3PreR7BVkaWeBbxaI8Hj1PImasMKqRCjutO+GKX9Y5hd5p7A+n1oeAxh2hmw9v0UfW0YTUcQ==",
+  "dgSpecHash": "EclPbj1qcrmhc5jGE/Ew4sN5RAhYEL4jtN7SBGScWWY3aBBlsPEomtq55tnUfJ/xNeaRCoDwTRLClE6yqU/3mg==",
   "success": true,
-  "projectFilePath": "H:\\23-24-net-otterbach\\Roboter_Sim\\Roboter_Sim.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Roboter_Sim\\Roboter_Sim.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -6,40 +6,44 @@ namespace Lotto_Zahlen
     {
         private readonly Random rnd = new Random(Guid.NewGuid().GetHashCode());
 
+        private TextBox[] textBoxTipp = new TextBox[6];
+
+        private void InitializeTextBoxTipp()
+        {
+            const int textBoxWidth = 50;
+            const int textBoxHeight = 20;
+            const int gap = 10;
+            const int startX = 100;
+            const int startY = 200;
+
+            // Loop to create TextBoxes
+            for (int i = 0; i < 6; i++)
+            {
+                TextBox textBox = new TextBox();
+                textBox.Location = new Point(startX + (textBoxWidth + gap) * i, startY);
+                textBox.Size = new Size(textBoxWidth, textBoxHeight);
+                textBox.Name = $"textBox_{i + 1}";
+                textBox.Visible = true;
+                this.Controls.Add(textBox);
+                textBoxTipp[i] = textBox;
+            }
+        }
+
         public Form1()
         {
             InitializeComponent();
+            InitializeTextBoxTipp();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // iterate through all textboxes and generate a random number
-            var textBoxes = GetAllControls<TextBox>(this);
-            foreach (TextBox tb in textBoxes)
-            {
-                tb.Text = GenerateNumber().ToString();
-            }
+            MessageBox.Show(textBoxTipp[0].Text);
         }
 
         private int GenerateNumber()
         {
             int number = rnd.Next(1, 49);
             return number;
-        }
-
-        // get all controls in form
-        public static IList<T> GetAllControls<T>(Control control) where T : Control
-        {
-            var lst = new List<T>();
-            foreach (Control item in control.Controls)
-            {
-                var ctr = item as T;
-                if (ctr != null)
-                    lst.Add(ctr);
-                else
-                    lst.AddRange(GetAllControls<T>(item));
-            }
-            return lst;
         }
     }
 }

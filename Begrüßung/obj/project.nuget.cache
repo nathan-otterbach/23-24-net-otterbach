@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nr1D3Dt65xi4hE+VlaFPq26wNjf/NVW/tiZfp8kmIWsl3gfCZA3Rjmrkvmu3f/PPTkfEudj965QPsOlvTL1qzQ==",
+  "dgSpecHash": "Zk/FAbOOpIJM61LZ5w/eO7ph5JNG2TKGW39FmjXjK2B7ZMUqXwQYemMuMqhnlaz1EfkLDcUns4bXeRY4jYLb1w==",
   "success": true,
-  "projectFilePath": "H:\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Begrüßung\\Begrüßung.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

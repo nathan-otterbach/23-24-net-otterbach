@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8bjSkzsSGJKiZ1v7nn29iGgsl7j2ifCsjqwDgTj2lZewdI1eZNZx8VGSqBRx73O79HMALibLSn4vuqEyc0c5Hw==",
+  "dgSpecHash": "nA1MbcG7XReTnG1Ydr86QW/rwda40sRjXfBqsrbDbavC0nMDbUC6cOLYt3A0DjvAXMV2QFLQtYBJX7eeuH7uBA==",
   "success": true,
-  "projectFilePath": "H:\\23-24-net-otterbach\\Elementare_Datentypen\\Elementare_Datentypen.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Elementare_Datentypen\\Elementare_Datentypen.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

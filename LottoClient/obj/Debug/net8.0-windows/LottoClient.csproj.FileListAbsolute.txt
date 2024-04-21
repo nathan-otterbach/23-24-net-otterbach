@@ -1,0 +1,17 @@
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\bin\Debug\net8.0-windows\LottoClient.exe
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\bin\Debug\net8.0-windows\LottoClient.deps.json
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\bin\Debug\net8.0-windows\LottoClient.runtimeconfig.json
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\bin\Debug\net8.0-windows\LottoClient.dll
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\bin\Debug\net8.0-windows\LottoClient.pdb
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.Form1.resources
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.csproj.GenerateResource.cache
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.AssemblyInfoInputs.cache
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.AssemblyInfo.cs
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.csproj.CoreCompileInputs.cache
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.sourcelink.json
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.dll
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\refint\LottoClient.dll
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.pdb
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\LottoClient.genruntimeconfig.cache
+C:\Users\bitwise\source\repos\23-24-net-otterbach\LottoClient\obj\Debug\net8.0-windows\ref\LottoClient.dll

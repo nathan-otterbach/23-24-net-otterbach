@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDAKrsF6E/8/YJ+a6/v86SJX0yYFAIrD0rd0FuH8DWWs2kOJRdovVwlLZQ/vKTW1pHKRZoTGyIMm+gREFe3l4Q==",
+  "dgSpecHash": "pPfIHL0I348nh7QLZVpJgVR5DjiSt9Y6kYWvNrjLR+RB2PvRq2ckQShwvP+wGThDGnT69TkIjLOEsYJb+Ptxcg==",
   "success": true,
-  "projectFilePath": "H:\\23-24-net-otterbach\\Lotto_Zahlen\\Lotto_Zahlen.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\OtterbachN1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\bitwise\\source\\repos\\23-24-net-otterbach\\Lotto_Zahlen\\Lotto_Zahlen.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
