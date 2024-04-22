@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LagerPlatz", "..\LagerPlatz
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3D_Array", "..\3D_Array\3D_Array.csproj", "{706D843A-BB55-4173-9533-4BD6C793EC25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoClient", "..\LottoClient\LottoClient.csproj", "{91E19B24-625D-458C-989D-DF89BE3AA10A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LottoClient", "..\LottoClient\LottoClient.csproj", "{91E19B24-625D-458C-989D-DF89BE3AA10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolltor", "..\Rolltor\Rolltor.csproj", "{A4866320-C1E2-443C-9949-D51E73285E3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{91E19B24-625D-458C-989D-DF89BE3AA10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E19B24-625D-458C-989D-DF89BE3AA10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E19B24-625D-458C-989D-DF89BE3AA10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4866320-C1E2-443C-9949-D51E73285E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4866320-C1E2-443C-9949-D51E73285E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4866320-C1E2-443C-9949-D51E73285E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4866320-C1E2-443C-9949-D51E73285E3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

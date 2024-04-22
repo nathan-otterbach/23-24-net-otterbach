@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\bin\Debug\net8.0-windows\Rolltor.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\bin\Debug\net8.0-windows\Rolltor.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\bin\Debug\net8.0-windows\Rolltor.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\bin\Debug\net8.0-windows\Rolltor.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\bin\Debug\net8.0-windows\Rolltor.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.sourcelink.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\refint\Rolltor.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\Rolltor.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Rolltor\obj\Debug\net8.0-windows\ref\Rolltor.dll
