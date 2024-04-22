@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             groupBox1 = new GroupBox();
             pictureBox_rolltor = new PictureBox();
             label3 = new Label();
@@ -43,6 +44,7 @@
             button_stop = new Button();
             button_down = new Button();
             button_up = new Button();
+            timer1 = new System.Windows.Forms.Timer(components);
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox_rolltor).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox_b1).BeginInit();
@@ -207,6 +209,11 @@
             button_up.UseVisualStyleBackColor = true;
             button_up.Click += button_up_Click;
             // 
+            // timer1
+            // 
+            timer1.Interval = 5;
+            timer1.Tick += timer1_Tick;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -246,5 +253,6 @@
         private Label label2;
         private Label label1;
         private PictureBox pictureBox_rolltor;
+        private System.Windows.Forms.Timer timer1;
     }
 }

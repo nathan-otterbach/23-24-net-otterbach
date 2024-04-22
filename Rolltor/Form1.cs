@@ -1,75 +1,91 @@
+using System;
+using System.Drawing;
+using System.Windows.Forms;
+
 namespace Rolltor
 {
     public partial class Form1 : Form
     {
-        private bool b1 = true;
-        private bool b2 = false;
-        private bool m1 = false;
+        private bool up = false;
+        private bool down = false;
 
-        // deauflt --> 0, up --> 1, down --> 2, stop --> 3
+        // default --> 0, up --> 1, down --> 2, stop --> 3
         private uint zustand = 0;
 
         public Form1()
         {
             InitializeComponent();
-            move(zustand);
+            timer1.Enabled = true;
         }
 
         private void button_up_Click(object sender, EventArgs e)
-        { 
+        {
             zustand = 1;
-            move(zustand);
+            up = true;
         }
 
         private void button_down_Click(object sender, EventArgs e)
         {
             zustand = 2;
-            move(zustand);
+            down = true;
         }
 
         private void button_stop_Click(object sender, EventArgs e)
         {
             zustand = 3;
-            move(zustand);
+            up = false;
+            down = false;
         }
 
-        private void move (uint zustand) {             
+        private void timer1_Tick(object sender, EventArgs e)
+        {
             switch (zustand)
             {
+                // default
                 case 0:
                     pictureBox_m1.BackColor = Color.Red;
                     pictureBox_b1.BackColor = Color.Green;
                     pictureBox_b2.BackColor = Color.Red;
                     break;
+
+                // up
                 case 1:
-                    if (b2 && b1)
+                    if (up)
                     {
-                        m1 = true;
                         pictureBox_m1.BackColor = Color.Green;
-                        for (int i = pictureBox_rolltor.Size.Height; i > 50; i--)
+
+                        if (pictureBox_rolltor.Height > 50)
                         {
-                            pictureBox_rolltor.Size = new Size(pictureBox_rolltor.Size.Width, pictureBox_rolltor.Size.Height - 1);
+                            pictureBox_rolltor.Height -= 2;
+                        }
+
+                        if (pictureBox_rolltor.Height <= pictureBox_b2.Location.Y)
+                        {
+                            pictureBox_b2.BackColor = Color.Red;
                         }
                     }
                     break;
+
+                // down
                 case 2:
-                    if (b1 || !b2)
+                    if (down)
                     {
-                        m1 = true;
-                        zustand = 1;
+                        pictureBox_m1.BackColor = Color.Green;
+
+                        if (pictureBox_rolltor.Height < ClientSize.Height - 110)
+                        {
+                            pictureBox_rolltor.Height += 2;
+                        }
+                        else
+                        {
+                            pictureBox_b2.BackColor = Color.Green;
+                        }
                     }
                     break;
+
+                // stop
                 case 3:
-                    if (b1 && !b2)
-                    {
-                        m1 = true;
-                        zustand = 1;
-                    }
-                    else if (!b1 && b2)
-                    {
-                        m1 = false;
-                        zustand = 2;
-                    }
+                    pictureBox_m1.BackColor = Color.Red;
                     break;
             }
         }

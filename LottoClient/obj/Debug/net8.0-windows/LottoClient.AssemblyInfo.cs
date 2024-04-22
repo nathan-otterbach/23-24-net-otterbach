@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LottoClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+702518f4ff70fd8719ba3d82a10d0925e5d2021b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a94f829a3e4ea9edbc4fcca446ca45c8c2875c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LottoClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LottoClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
