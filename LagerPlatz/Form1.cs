@@ -11,6 +11,7 @@ namespace LagerPlatz
         private PictureBox[,] pictureBoxes = new PictureBox[Levels, BoxesPerLevel];
         private Status[,] statuses = new Status[Levels, BoxesPerLevel];
 
+
         // Enumeration to represent different statuses
         private enum Status
         {
@@ -92,6 +93,7 @@ namespace LagerPlatz
         public Form1()
         {
             InitializeComponent();
+
             CreatePictureBoxes(); // Initialize PictureBoxes
             comboBox_Ebene.SelectedIndex = 0;
             comboBox_Ebene.SelectedIndexChanged += ComboBox_Ebene_SelectedIndexChanged; // Subscribe to ComboBox event
