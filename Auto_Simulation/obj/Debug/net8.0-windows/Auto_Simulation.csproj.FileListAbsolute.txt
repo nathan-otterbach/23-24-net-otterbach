@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.sourcelink.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\bin\Debug\net8.0-windows\Auto_Simulation.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\bin\Debug\net8.0-windows\Auto_Simulation.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\bin\Debug\net8.0-windows\Auto_Simulation.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\bin\Debug\net8.0-windows\Auto_Simulation.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\bin\Debug\net8.0-windows\Auto_Simulation.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\refint\Auto_Simulation.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\Auto_Simulation.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Auto_Simulation\obj\Debug\net8.0-windows\ref\Auto_Simulation.dll

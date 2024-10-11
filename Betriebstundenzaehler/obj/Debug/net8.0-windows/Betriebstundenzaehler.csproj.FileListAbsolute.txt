@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\bin\Debug\net8.0-windows\Betriebstundenzaehler.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\bin\Debug\net8.0-windows\Betriebstundenzaehler.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\bin\Debug\net8.0-windows\Betriebstundenzaehler.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\bin\Debug\net8.0-windows\Betriebstundenzaehler.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\bin\Debug\net8.0-windows\Betriebstundenzaehler.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.sourcelink.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\refint\Betriebstundenzaehler.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\Betriebstundenzaehler.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Betriebstundenzaehler\obj\Debug\net8.0-windows\ref\Betriebstundenzaehler.dll

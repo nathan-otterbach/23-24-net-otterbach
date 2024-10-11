@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\bin\Debug\net8.0-windows\Zähler_Demo.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\bin\Debug\net8.0-windows\Zähler_Demo.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\bin\Debug\net8.0-windows\Zähler_Demo.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\bin\Debug\net8.0-windows\Zähler_Demo.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\bin\Debug\net8.0-windows\Zähler_Demo.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.sourcelink.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\refint\Zähler_Demo.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\Zähler_Demo.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Zähler_Demo\obj\Debug\net8.0-windows\ref\Zähler_Demo.dll
