@@ -4,7 +4,7 @@ namespace Auto_Simulation
     public partial class Form1 : Form
     {
         private Graphics _graphics => CreateGraphics();
-        private Cl_Auto _auto = new Cl_Auto(Color.Red, Color.Black, Color.Gray, 100, 10, 10, 100);
+        private Cl_Auto _auto = new Cl_Auto(Color.Red, Color.Black, Color.Gray, 100, 10, 10, 250);
         private bool _movingRight = false;
 
         public Form1()
