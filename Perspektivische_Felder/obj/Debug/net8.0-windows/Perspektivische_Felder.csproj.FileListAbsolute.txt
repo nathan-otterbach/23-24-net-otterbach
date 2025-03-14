@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\bin\Debug\net8.0-windows\Perspektivische_Felder.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\bin\Debug\net8.0-windows\Perspektivische_Felder.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\bin\Debug\net8.0-windows\Perspektivische_Felder.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\bin\Debug\net8.0-windows\Perspektivische_Felder.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\bin\Debug\net8.0-windows\Perspektivische_Felder.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.sourcelink.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\refint\Perspektivische_Felder.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\Perspektivische_Felder.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Felder\obj\Debug\net8.0-windows\ref\Perspektivische_Felder.dll

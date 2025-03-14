@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\bin\Debug\net8.0-windows\Vererbung_AnzeigeElement.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\bin\Debug\net8.0-windows\Vererbung_AnzeigeElement.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\bin\Debug\net8.0-windows\Vererbung_AnzeigeElement.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\bin\Debug\net8.0-windows\Vererbung_AnzeigeElement.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\bin\Debug\net8.0-windows\Vererbung_AnzeigeElement.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.sourcelink.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\refint\Vererbung_AnzeigeElement.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\Vererbung_AnzeigeElement.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Vererbung_AnzeigeElement\obj\Debug\net8.0-windows\ref\Vererbung_AnzeigeElement.dll

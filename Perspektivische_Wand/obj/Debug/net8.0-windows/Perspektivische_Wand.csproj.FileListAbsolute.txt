@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.sourcelink.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\bin\Debug\net8.0-windows\Perspektivische_Wand.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\bin\Debug\net8.0-windows\Perspektivische_Wand.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\bin\Debug\net8.0-windows\Perspektivische_Wand.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\bin\Debug\net8.0-windows\Perspektivische_Wand.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\bin\Debug\net8.0-windows\Perspektivische_Wand.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\refint\Perspektivische_Wand.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\Perspektivische_Wand.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Perspektivische_Wand\obj\Debug\net8.0-windows\ref\Perspektivische_Wand.dll

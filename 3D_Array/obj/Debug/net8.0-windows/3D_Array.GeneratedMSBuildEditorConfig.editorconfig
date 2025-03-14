@@ -17,3 +17,6 @@ build_property.RootNamespace = _3D_Array
 build_property.ProjectDir = C:\Users\Nathan\source\repos\23-24-net-otterbach\3D_Array\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

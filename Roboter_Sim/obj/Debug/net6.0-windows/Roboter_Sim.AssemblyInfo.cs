@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Roboter_Sim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dbfd2d0e95a35590520683abb0866f0e41ee60c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5389ace9d72f60e849caaa5cf72f3499bc186c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Roboter_Sim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Roboter_Sim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

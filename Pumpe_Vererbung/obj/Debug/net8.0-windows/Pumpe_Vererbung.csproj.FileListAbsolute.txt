@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\bin\Debug\net8.0-windows\Pumpe_Vererbung.exe
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\bin\Debug\net8.0-windows\Pumpe_Vererbung.deps.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\bin\Debug\net8.0-windows\Pumpe_Vererbung.runtimeconfig.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\bin\Debug\net8.0-windows\Pumpe_Vererbung.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\bin\Debug\net8.0-windows\Pumpe_Vererbung.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.Form1.resources
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.sourcelink.json
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\refint\Pumpe_Vererbung.dll
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.pdb
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\Pumpe_Vererbung.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\23-24-net-otterbach\Pumpe_Vererbung\obj\Debug\net8.0-windows\ref\Pumpe_Vererbung.dll

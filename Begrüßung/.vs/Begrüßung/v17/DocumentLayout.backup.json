@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Begr\u00FC\u00DFung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43ECC698-7CA2-4768-91EF-B814456EF3FF}|..\\Auto_Simulation\\Auto_Simulation.csproj|c:\\users\\nathan\\source\\repos\\23-24-net-otterbach\\auto_simulation\\cl_auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D307C0E9-4F26-4A03-8F83-68E435F8EE9F}|..\\Perspektivische_Felder\\Perspektivische_Felder.csproj|c:\\users\\nathan\\source\\repos\\23-24-net-otterbach\\perspektivische_felder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43ECC698-7CA2-4768-91EF-B814456EF3FF}|..\\Auto_Simulation\\Auto_Simulation.csproj|c:\\users\\nathan\\source\\repos\\23-24-net-otterbach\\auto_simulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D307C0E9-4F26-4A03-8F83-68E435F8EE9F}|..\\Perspektivische_Felder\\Perspektivische_Felder.csproj|c:\\users\\nathan\\source\\repos\\23-24-net-otterbach\\perspektivische_felder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43ECC698-7CA2-4768-91EF-B814456EF3FF}|..\\Auto_Simulation\\Auto_Simulation.csproj|c:\\users\\nathan\\source\\repos\\23-24-net-otterbach\\auto_simulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D307C0E9-4F26-4A03-8F83-68E435F8EE9F}|..\\Perspektivische_Felder\\Perspektivische_Felder.csproj|c:\\users\\nathan\\source\\repos\\23-24-net-otterbach\\perspektivische_felder\\ebene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D307C0E9-4F26-4A03-8F83-68E435F8EE9F}|..\\Perspektivische_Felder\\Perspektivische_Felder.csproj|c:\\users\\nathan\\source\\repos\\23-24-net-otterbach\\perspektivische_felder\\flaeche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,44 +22,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Auto_Simulation\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\Auto_Simulation\\Form1.cs",
-              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Auto_Simulation\\Form1.cs",
-              "RelativeToolTip": "..\\Auto_Simulation\\Form1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwC8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T09:07:11.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cl_Auto.cs",
-              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Auto_Simulation\\Cl_Auto.cs",
-              "RelativeDocumentMoniker": "..\\Auto_Simulation\\Cl_Auto.cs",
-              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Auto_Simulation\\Cl_Auto.cs",
-              "RelativeToolTip": "..\\Auto_Simulation\\Cl_Auto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Perspektivische_Felder\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Perspektivische_Felder\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Perspektivische_Felder\\Form1.cs*",
+              "RelativeToolTip": "..\\Perspektivische_Felder\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T08:59:17.686Z",
+              "WhenOpened": "2025-03-14T09:59:27.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Auto_Simulation\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\Auto_Simulation\\Form1.cs",
-              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Auto_Simulation\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\Auto_Simulation\\Form1.cs [Design]",
+              "Title": "Ebene.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Perspektivische_Felder\\Ebene.cs",
+              "RelativeDocumentMoniker": "..\\Perspektivische_Felder\\Ebene.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Perspektivische_Felder\\Ebene.cs",
+              "RelativeToolTip": "..\\Perspektivische_Felder\\Ebene.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T08:58:05.704Z",
+              "WhenOpened": "2025-03-14T09:07:28.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flaeche.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Perspektivische_Felder\\Flaeche.cs",
+              "RelativeDocumentMoniker": "..\\Perspektivische_Felder\\Flaeche.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Perspektivische_Felder\\Flaeche.cs",
+              "RelativeToolTip": "..\\Perspektivische_Felder\\Flaeche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:00:03.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Perspektivische_Felder\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Perspektivische_Felder\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nathan\\source\\repos\\23-24-net-otterbach\\Perspektivische_Felder\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\Perspektivische_Felder\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:58:56.271Z",
               "EditorCaption": " [Design]"
             }
           ]
